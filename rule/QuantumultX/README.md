@@ -1,4 +1,5 @@
 Quantumult X小白配置
+https://raw.githubusercontent.com/EmiIiaTan/-n-s/main/rule/QuantumultX/Orz-3.conf
 配置说明：
 本配置由神机规则修改而来，使用了Shawn的解析器和部分脚本，修改了默认策略组，增加了正则筛选策略组，并集成了多个作者的脚本及重写。附带按task脚本作者分类的task订阅，可按需求订阅
 
